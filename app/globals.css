@@ -13,5 +13,5 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Metropolis', sans-serif;
+  font-family: 'Metropolis', sans-serif !important;
 }
